@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**waseda-ken/waseda-ken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">こんにちは 👋、永田 健人です</h1>
+<p align="center">
+  🎓 早稲田大学 情報理工学科 <br>
+</p>
+## 📊 GitHub 統計
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=waseda-ken&show_icons=true&count_private=true&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waseda-ken&layout=compact&hide_title=true" alt="Top Languages" />
+</p>
+## 📫 Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-プロフィール-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-@your-twitter-lightblue?style=flat&logo=twitter" alt="Twitter" /></a>
+</p>
