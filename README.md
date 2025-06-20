@@ -3,6 +3,7 @@
 <p align="center">
   🎓 早稲田大学 情報理工学科 <br>
 </p>
+
 ## 📊 GitHub 統計
 
 <p align="center">
